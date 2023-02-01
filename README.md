@@ -13,13 +13,13 @@ https://user-images.githubusercontent.com/76790227/150206550-f521be54-67bb-4288-
 
 --> Different components for each car
 
---> Working side-menu
+--> Working side menu/navbar
 
 --> Email and Password Authentication with firebase
 
---> Persistant log in even after reload unless you sign-out
+--> Persistent log-in even after reloading unless you sign-out
 
---> Your personal dashboard on account tab
+--> Your personalized dashboard on the account tab
 
 https://user-images.githubusercontent.com/76790227/150206617-44350bb2-28d6-4a59-9136-676d798cae07.mp4
 
