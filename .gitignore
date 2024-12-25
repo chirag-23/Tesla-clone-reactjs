@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+.bun/
+bun.lockb
+
+# Environment variables
+.env
+.env.*.local
+
+# Bun specific
+.bun/
+
+# Build directories
+build/
+dist/
+out/
+
+# Next.js specific
+.next/
+.vercel/
+
+# Typescript
+*.tsbuildinfo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.lock
